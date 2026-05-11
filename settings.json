@@ -42,18 +42,18 @@
     "max-reconnect-delay": 120000
   },
   "movement": {
-    "disabled": false,
+    "enebled": true,
     "circle-walk": {
-      "disabled": false,
+      "enebled": true,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
-      "disabled": false,
+      "enebled": true,
       "interval": 5000
     },
     "random-jump": {
-      "enabled": false,
+      "enabled": true,
       "interval": 10000
     }
   },
@@ -77,8 +77,8 @@
     "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
     "events": {
       "connect": true,
-      "disconnect": false,
-      "chat": false
+      "disconnect": true,
+      "chat": true
     }
   },
   "chat": {
