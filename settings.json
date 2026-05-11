@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NivedSMP.aternos.me",
+    "port": 33501,
     "version": "",
     "try-creative": false
   },
